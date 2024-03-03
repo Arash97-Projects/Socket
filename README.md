@@ -22,25 +22,25 @@ The server script listens on a predefined port for incoming messages, managing a
 
 ## Usage
 
-1. Clone the repository:
+1.Clone the repository:
 
    ```bash
    git@github.com:Arash97-Projects/Socket.git
    ```
 
-2. Run the server script:
+2.Run the server script:
 
   ```bash
   python server.py
   ```
 
-3. Run the client script for each user:
+3.Run the client script for each user:
 
   ```bash
   python client.py
   ```
 
-4. Follow the on-screen instructions to set nicknames, send messages, and enjoy seamless communication.
+4.Follow the on-screen instructions to set nicknames, send messages, and enjoy seamless communication.
 
 **Contribution:**
 
