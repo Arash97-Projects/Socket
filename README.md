@@ -25,9 +25,8 @@ The server script listens on a predefined port for incoming messages, managing a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/socket-chatroom.git
-   cd socket-chatroom```
-   
+   git@github.com:Arash97-Projects/Socket.git```
+
 2.Run the server script:
 
   ```bash
