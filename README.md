@@ -1,4 +1,4 @@
-# Python Socket Chatroom
+# UDP Chatroom
 
 **Overview:**
 
@@ -52,21 +52,29 @@ Feel free to contribute, report issues, or suggest enhancements. Your contributi
 
 
 
-**TCP Chat Room**
+# TCP Chatroom
 
-Today, we embark on the journey of creating a simple yet effective TCP chat room, bringing together a server and multiple clients for seamless communication. This project aims to provide an interactive platform where users can connect to a central server and engage in real-time conversations with one another.
-Project Overview
+Welcome to the TCP Chat Room project, where we undertake the development of a straightforward yet robust communication system. This initiative brings forth a server-client architecture, enabling multiple users to connect and communicate seamlessly within a real-time chat environment. The primary objective of this project is to furnish an interactive platform, allowing users to establish connections with a central server and participate in dynamic conversations.
+
+
+## Project Overview:
 
 **Our TCP chat room consists of two main components:**
 
-    Server: The heart of the chat room, the server facilitates connections from multiple clients. It manages the communication between clients, ensuring a smooth and efficient exchange of messages. The server is responsible for handling new connections, assigning unique nicknames to clients, and broadcasting messages to all connected users.
+  - **Server:** The heart of the chat room, the server facilitates connections from multiple clients. It manages the communication between clients, ensuring a smooth and efficient exchange of messages. The server is responsible for handling new connections, assigning unique nicknames to clients, and broadcasting messages to all connected users.
 
-    Clients: These are the end-users who connect to the server to participate in the chat. Clients can choose a nickname for identification purposes and engage in real-time conversations with other connected users. The system is designed to handle multiple clients concurrently, allowing for a dynamic and interactive chat experience.
+  - **Clients:** These are the end-users who connect to the server to participate in the chat. Clients can choose a nickname for identification purposes and engage in real-time conversations with other connected users. The system is designed to handle multiple clients concurrently, allowing for a dynamic and interactive chat experience.
 
 **Key Features**
 
-    Real-Time Communication: Experience instant messaging with real-time updates, creating a lively and engaging chat environment.
+   - **Real-Time Communication:** Experience instant messaging with real-time updates, creating a lively and engaging chat environment.
 
-    Nickname Assignment: Clients can personalize their chat experience by choosing unique nicknames for easy identification during conversations.
+   - **Nickname Assignment:**  Clients can personalize their chat experience by choosing unique nicknames for easy identification during conversations.
 
-    Error Handling: The system gracefully handles errors and disconnections, ensuring a robust and reliable chat room experience.
+   - **Error Handling:** The system gracefully handles errors and disconnections, ensuring a robust and reliable chat room experience.
+
+
+
+## License
+
+This project is licensed under the MIT License.
